@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/11_technical_risks.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/11_technical_risks.adoc[leveloffset=-1]

@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/06_runtime_view.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/06_runtime_view.adoc[leveloffset=-1]

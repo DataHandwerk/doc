@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/04_solution_strategy.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/04_solution_strategy.adoc[leveloffset=-1]

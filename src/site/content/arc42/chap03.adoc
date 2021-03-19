@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/03_system_scope_and_context.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/03_system_scope_and_context.adoc[leveloffset=-1]

@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/08_concepts.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/08_concepts.adoc[leveloffset=-1]

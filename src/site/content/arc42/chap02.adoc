@@ -4,4 +4,4 @@
 
 :toc: left
 
-include::../../../doc/chapters/02_architecture_constraints.adoc[leveloffset=-1]
+include::../../../doc/src/chapters/02_architecture_constraints.adoc[leveloffset=-1]
