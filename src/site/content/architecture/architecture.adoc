@@ -1,4 +1,4 @@
-:jbake-title: Einführung und Ziele
+:jbake-title: Architecture
 :jbake-type: page_toc
 :jbake-status: published
 

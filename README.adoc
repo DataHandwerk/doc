@@ -69,6 +69,6 @@ It show how to mix a Hello-World app with documentation in one Repository.
 
 === How to build
 
-use decated powershell, the integrated powershell terminal in VSC sometimes crashes, when baking.
+use dedicated powershell, the integrated powershell terminal in VSC sometimes crashes, when baking.
 
 use `./gradlew bake` to build the site and `./gradlew bakePreview` to start a little webserver.

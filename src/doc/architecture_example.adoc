@@ -23,10 +23,10 @@ ifdef::basebackend-html[]
 endif::basebackend-html[]
 
 // configure DE settings for asciidoc
-include::chapters/config.adoc[]
+include::src/chapters/config.adoc[]
 
 
-include::chapters/about-arc42.adoc[]
+include::src/chapters/about-arc42.adoc[]
 
 // horizontal line
 ***
@@ -47,48 +47,48 @@ Für die Dokumentation eigener System verwenden Sie besser die _plain_ Version.
 
 <<<<
 // 1. Anforderungen und Ziele
-include::chapters/01_introduction_and_goals.adoc[]
+include::src/chapters/01_introduction_and_goals.adoc[]
 
 <<<<
 // 2. Randbedingungen
-include::chapters/02_architecture_constraints.adoc[]
+include::src/chapters/02_architecture_constraints.adoc[]
 
 <<<<
 // 3. Kontextabgrenzung
-include::chapters/03_system_scope_and_context.adoc[]
+include::src/chapters/03_system_scope_and_context.adoc[]
 
 <<<<
 // 4. Lösungsstrategie
-include::chapters/04_solution_strategy.adoc[]
+include::src/chapters/04_solution_strategy.adoc[]
 
 <<<<
 // 5. Bausteinsicht
-include::chapters/05_building_block_view.adoc[]
+include::src/chapters/05_building_block_view.adoc[]
 
 <<<<
 // 6. Laufzeitsicht
-include::chapters/06_runtime_view.adoc[]
+include::src/chapters/06_runtime_view.adoc[]
 
 <<<<
 // 7. Verteilungssicht
-include::chapters/07_deployment_view.adoc[]
+include::src/chapters/07_deployment_view.adoc[]
 
 <<<<
 // 8. Querschnittliche Konzepte
-include::chapters/08_concepts.adoc[]
+include::src/chapters/08_concepts.adoc[]
 
 <<<<
 // 9. Entscheidungen
-include::chapters/09_design_decisions.adoc[]
+include::src/chapters/09_design_decisions.adoc[]
 
 <<<<
 // 10. Qualität...
-include::chapters/10_quality_scenarios.adoc[]
+include::src/chapters/10_quality_scenarios.adoc[]
 
 <<<<
 // 11. Risiken
-include::chapters/11_technical_risks.adoc[]
+include::src/chapters/11_technical_risks.adoc[]
 
 <<<<
 // 12. Glossar
-include::chapters/12_glossary.adoc[]
+include::src/chapters/12_glossary.adoc[]

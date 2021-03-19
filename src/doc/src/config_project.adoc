@@ -7,8 +7,8 @@
 
 :project-report-issue-link: https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql/issues/new?title=&body=%0A%0A%5BEnter%20feedback%20here%5D%0A%0A%0A---%0A%23page:
 
-:repositoryDocsDir: https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql/tree/main/docs/
-:project-repository-docs-link: https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql/tree/main/docs/
-:project-repository-docs-edit-link: https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql/edit/main/docs/
+:repositoryDocsDir: https://github.com/DataHandwerk/doc/tree/main/src/doc/
+:project-repository-docs-link: https://github.com/DataHandwerk/doc/tree/main/src/doc/
+:project-repository-docs-edit-link: https://github.com/DataHandwerk/doc/edit/main/src/doc/
 
 :c4_dsl_includedir: c4_dsl/puml

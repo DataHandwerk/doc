@@ -1,4 +1,4 @@
-:filename: dwh-arc42.adoc
+:filename: architecture.adoc
 :toc: left
 // :toclevels: 3
 // :toc-position: left
