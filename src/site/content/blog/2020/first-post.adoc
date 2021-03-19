@@ -1,8 +1,8 @@
-:jbake-title: Erster Post
+:jbake-title: First Post
 :jbake-date: 2020-12-15
 :jbake-type: post
 :jbake-tags: blog, asciidoc
-:jbake-status: published
+:jbake-status: draft
 
 = Erster Post
 Ralf D. Müller

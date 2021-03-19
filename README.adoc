@@ -1,3 +1,5 @@
+//tag::about[]
+
 == DataHandwerk documentation
 
 documentation for these projects:
@@ -25,8 +27,8 @@ That's why we need other ways to publish documentation.
 * doctoolchain developers also provide a template, how to create a documentation website which can be easy hosted for example on https://www.netlify.com/ +
 and this repository is used as template for the current project: https://github.com/docToolchain/arc42-template-project
 
+//end::about[]
 
-//tag::about[]
 
 == arc42 Project Template
 
@@ -62,7 +64,6 @@ It show how to mix a Hello-World app with documentation in one Repository.
 | 2.5.12
 |===
 
-//end::about[]
 
 === How to build
 

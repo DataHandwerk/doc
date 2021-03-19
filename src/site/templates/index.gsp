@@ -7,7 +7,7 @@
 
 <main class="container">
 	<div class="bg-light p-5 rounded">
-		<h1>Architekturdokumentation</h1>
+		<h1>DataHandwerk Project documentation</h1>
 		<p class="lead">
 			Diese Microsite enthält die Architekturdokumentation zum System X
 		</p>

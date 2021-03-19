@@ -4,12 +4,12 @@
 
 include::../../../README.adoc[tags=about]
 
-'''
+// '''
 
-include::../../doc/chapters/about-arc42.adoc[]
+// include::../../doc/chapters/about-arc42.adoc[]
 
-'''
+// '''
 
-The source of this microsite can be found at https://github.com/docToolchain/arc42-template-project .
+The source of this microsite can be found at https://github.com/DataHandwerk/doc
 
 
