@@ -7,6 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav me-auto mb-2 mb-md-0">
         <li><a class="nav-link" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>index.html">Home</a></li>
+        <li><a class="nav-link" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>architecture/architecture.html">Architecture</a></li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">arc42</a>
           <ul class="dropdown-menu" aria-labelledby="dropdown01">

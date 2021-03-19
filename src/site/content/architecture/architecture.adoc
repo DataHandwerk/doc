@@ -1,0 +1,7 @@
+:jbake-title: Einführung und Ziele
+:jbake-type: page_toc
+:jbake-status: published
+
+:toc: left
+
+include::../../../doc/architecture.adoc[leveloffset=0]
