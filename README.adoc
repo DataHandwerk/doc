@@ -1,3 +1,31 @@
+== DataHandwerk documentation
+
+documentation for these projects:
+
+* https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql
+
+=== Why we don't use github wiki and github pages?
+
+insted of markdown we use https://asciidoc.org/[asciidoc]
+
+* https://en.wikipedia.org/wiki/AsciiDoc
+* https://asciidoctor.org[Asciidoctor]
+* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
+github has asciidoc support out of the box, but githup doesn't support all features, and it has no asciidoctor. Some missing features:
+
+* inline documents
+* inline graphics
+
+That's why we need other ways to publish documentation.
+
+* maybe https://antora.org/ could be used, but maybe it would be oversized
+* https://github.com/docToolchain/docToolchain is great and easy to use to generate HTML (or PDF, or other documents) from asciidoc files
+* doctoolchain developers also provide a template, how to create a documentation website which can be easy hosted for example on https://www.netlify.com/ +
+and this repository is used as template for the current project: https://github.com/docToolchain/arc42-template-project
+
+
 //tag::about[]
 
 == arc42 Project Template
