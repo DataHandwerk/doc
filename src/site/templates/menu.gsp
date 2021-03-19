@@ -28,8 +28,9 @@
         <li><a class="nav-link" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>about.html">About</a></li>
         <li><a class="nav-link" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>${config.feed_file}">RSS-Feed</a></li>
       </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+      <form action="google.com/search" class="d-flex">
+        <input name="q" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <input name="q" type="hidden" value="site:datahandwerk.netlify.app">
         <button class="btn btn-outline-success" type="submit">Search</button>
       </form>
     </div>

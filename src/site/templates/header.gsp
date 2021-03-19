@@ -5,7 +5,7 @@
   <meta name="author" content="">
   <meta name="keywords" content="">
   <meta name="generator" content="JBake">
-  <title><%if (content.title) {%>${content.title}<% } else { %>JBake<% }%></title>
+  <title><%if (content.title) {%>${content.title}<% } else { %>DataHandwerk<% }%></title>
 
 
   <link href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>css/bootstrap.min.css" rel="stylesheet">

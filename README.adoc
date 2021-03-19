@@ -6,6 +6,8 @@ documentation for these projects:
 
 * https://github.com/DataHandwerk/DataHandwerk-toolkit-mssql
 
+final documentation available at https://datahandwerk.netlify.app/
+
 === Why we don't use github wiki and github pages?
 
 insted of markdown we use https://asciidoc.org/[asciidoc]
